@@ -6,7 +6,7 @@ Um design de capa de CD conceitual criado no Figma, inspirado no artista Jean Ta
 
 ## Conceito e Inspiração 🎶
 
-Descreva mais detalhadamente o processo criativo, as escolhas de elementos visuais, paleta de cores, tipografia e como cada aspecto se conecta com as influências mencionadas (neo soul, R&B, Brasil, groovy, vinil).
+O processo criativo foram inspirados em um de meus gostos por música e pelo ritmo R&B, a paleta de cores foi um desafio proposto (preto e branco), tipografias, ícones e cada aspecto se conecta com as influências (neo soul, R&B, Brasil, groovy, vinil).
 
 ## Ferramentas Utilizadas 🛠️
 
